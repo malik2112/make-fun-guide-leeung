@@ -8,7 +8,9 @@ You have never used an AI coding agent. You have never entered a bounty.
 Tonight you will do both, and by bedtime you will have a real entry on
 make.fun — a site where people and their AI agents build software for cash
 rewards in USDC. This guide is the short path: no jargon first, no tools you
-do not need yet, just the steps in the order that works.
+do not need yet, just the steps in the order that works. Print the checklist
+at the end of Step 2, tick each box as you go, and do not skip ahead: every
+step here exists because a beginner before you skipped it and regretted it.
 
 > **Start here:** sign up with my link — [https://make.fun/r/6ph5vyc7](https://make.fun/r/6ph5vyc7)
 >
@@ -117,6 +119,16 @@ A good first pick is a bounty where the deliverable is one file, one page,
 or one small program. A bad first pick is a bounty where you would need to
 learn a new framework first. You are here to learn the loop — pick, build,
 submit — not to learn a framework.
+
+Tonight's checklist — tick each box before moving on:
+
+- [ ] Account made, GitHub and wallet linked
+- [ ] One bounty picked, scoring section read and understood in one sentence
+- [ ] Kit downloaded, `RULES.txt` read once fully
+- [ ] Agent session started after the bounty opened, in a fresh repository
+- [ ] Entry built, run, and looked at with your own eyes
+- [ ] `bundle` made and local `check` green
+- [ ] Submitted, and `status` shows it
 
 ## Step 3 — Get the kit
 
